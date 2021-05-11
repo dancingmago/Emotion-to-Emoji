@@ -29,4 +29,9 @@ span
   font-size: 18px;
   border-radius: 10px;
   letter-spacing: 10px;
+  background-color: aqua;
+}
+.button{
+    background-color: aqua;
+    height: 35px;
 }
